@@ -85,5 +85,5 @@ subdirectories inside the *code*-directory.
 
 ## Best Practices
 
-### Making /assets readonly
+### Don't allow script execution in `/assets`
 See [secure-development#filesystem](/topics/security#filesystem)
